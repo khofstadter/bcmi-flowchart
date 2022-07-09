@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T14:18:02.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="nAjuulgWyDXe1Jc8MndT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T14:23:17.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="7gE-2wz7jVIY7M9CFrhA" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1172" dy="700" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="301" dy="179" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="2vEwFdgHqtbfs0SoOasA-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="80" />
@@ -127,7 +127,7 @@
         </mxCell>
         <mxCell id="3klvOxMVQJ8vWyQLzu-L-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#0000CC;" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-20">
           <mxGeometry x="-0.4218" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bq3h18sL0KgaUb55MUdY-1" value="Do you have access to a system that provides all steps &lt;br&gt;for your envisioned BCMI process?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
