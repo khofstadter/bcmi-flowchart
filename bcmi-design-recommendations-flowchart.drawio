@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T10:00:38.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="7cJfC8IFWfY1V6sT-6V1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T10:17:18.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="8ZchRlKaw1bS3EHeOCRX" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1302" dy="849" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="899" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,13 +121,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bq3h18sL0KgaUb55MUdY-1" value="Do you have access to a system that provides you with all step for your envisioned BCMI process?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352" y="55" width="473" height="60" as="geometry" />
+          <mxGeometry x="352" y="55" width="484" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-24" value="all steps" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-2" target="2vEwFdgHqtbfs0SoOasA-23">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-24" value="all steps" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="528" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="418" y="220" />
-              <mxPoint x="418" y="220" />
+              <mxPoint x="418" y="517" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,22 +153,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bq3h18sL0KgaUb55MUdY-2" value="What are the missing steps?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352" y="154" width="473" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-12" value="Find a platform that allows you to develop the mapping and sound control parameters you want to support mediation with or redesign the whole system where the steps for mapping and control p are the same as for getting the neuromarkers." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1023" y="427" width="131" height="197.5" as="geometry" />
+          <mxGeometry x="352" y="154" width="484" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-8" value="Use it." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1017.5" y="45" width="77" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-23" value="Consider using an OpenBCI board with the OpenBCI-SuperCollider Interface to access your neuromarkers and develop your own mapping and control parameters steps with SuperCollider IDE." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="264" width="143" height="176" as="geometry" />
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-23" value="Consider developing your BCMI system with an OpenBCI board to record your EEG, the OpenBCI-SuperCollider Interface software to process this EEG to be able to access your neuromarkers and develop your mapping and sound control parameters in SuperCollider IDE as well.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="198" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="So, you have access to an EEG amplifier and could extract the neuromaker related EEG features and classify them to be used for control.&amp;nbsp;&lt;br&gt;&lt;br&gt;Can you develop the mapping and the sound control parameters in the same software where you have classified your brain signals?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="259.75" width="143" height="224.25" as="geometry" />
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.024;entryY=0.327;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vEwFdgHqtbfs0SoOasA-25" target="2vEwFdgHqtbfs0SoOasA-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="561" y="602" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-26" value="So, you have a software where you can the create sounds or music and the&amp;nbsp; means to map their parameters to classified brain signals.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="682" y="259.75" width="143" height="176" as="geometry" />
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-39" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-36">
+          <mxGeometry x="-0.4582" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vEwFdgHqtbfs0SoOasA-25" target="2vEwFdgHqtbfs0SoOasA-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="528" />
+              <mxPoint x="622" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-43" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-42">
+          <mxGeometry x="-0.2053" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="So, you have access to an EEG amplifier and can extract the neuromaker related EEG features and classify them to be used for control.&amp;nbsp;&lt;br&gt;&lt;br&gt;Can you develop your envisioned mapping and the sound control parameters in the same software where you have classified your brain signals?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="259.75" width="154" height="224.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vEwFdgHqtbfs0SoOasA-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="528" y="627" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="726" y="627" />
+              <mxPoint x="539" y="627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-34" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-32">
+          <mxGeometry x="-0.7333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-26" value="So, you have a software where you can the create sounds or music and the&amp;nbsp; means to map their parameters to classified brain signals. Now you only need to feed the classified brain signal to this software.&lt;br&gt;&lt;br&gt;Is the software SuperCollider?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="259.75" width="154" height="224.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-41" value="Sonification considerations.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562" y="671" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
