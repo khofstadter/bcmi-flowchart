@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T23:29:40.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="jQ_tm1bL2qvwBSxb_kHM" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T10:00:38.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="7cJfC8IFWfY1V6sT-6V1" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1172" dy="764" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="849" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,48 +99,76 @@
         <mxCell id="VttY3gMubxosSflKqxmT-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DEPLOY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="1012" width="88" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-5" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="Bq3h18sL0KgaUb55MUdY-2">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="Bq3h18sL0KgaUb55MUdY-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="511" y="132" />
-              <mxPoint x="409" y="132" />
+              <mxPoint x="418" y="121" />
+              <mxPoint x="418" y="121" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="Bq3h18sL0KgaUb55MUdY-15">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-15" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-9">
+          <mxGeometry x="-0.082" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="2vEwFdgHqtbfs0SoOasA-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="512" y="132" />
-              <mxPoint x="585" y="132" />
+              <mxPoint x="792" y="88" />
+              <mxPoint x="792" y="88" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-17" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bq3h18sL0KgaUb55MUdY-16">
-          <mxGeometry x="-0.1999" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="Bq3h18sL0KgaUb55MUdY-1" value="Do you have access to a system that provides you with all step for your envisioned BCMI process?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352" y="55" width="473" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-1" value="Do you have access to a system that provides the neuromarkers?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="55" width="319" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="154" width="120" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-15" target="Bq3h18sL0KgaUb55MUdY-12">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-24" value="all steps" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-2" target="2vEwFdgHqtbfs0SoOasA-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780.5" y="320.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="418" y="220" />
+              <mxPoint x="418" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-14" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bq3h18sL0KgaUb55MUdY-13">
-          <mxGeometry x="-0.32" y="-1" relative="1" as="geometry">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-2" target="2vEwFdgHqtbfs0SoOasA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-29" value="after neuromarkers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-27">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-12" value="Find a platform that allows you to develop the mapping and sound control parameters you want to support mediation with or redesign the whole system where the steps for mapping and control p are the same as for getting the neuromarkers." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="414" width="131" height="197.5" as="geometry" />
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-2" target="2vEwFdgHqtbfs0SoOasA-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="220" />
+              <mxPoint x="754" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Bq3h18sL0KgaUb55MUdY-15" value="Does this system provide mapping and sound control parameters that can be customised to support your chosen meditation technique(s)?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="154" width="120" height="154" as="geometry" />
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-30" value="before neuromarkers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2vEwFdgHqtbfs0SoOasA-28">
+          <mxGeometry x="-0.133" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bq3h18sL0KgaUb55MUdY-2" value="What are the missing steps?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352" y="154" width="473" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq3h18sL0KgaUb55MUdY-12" value="Find a platform that allows you to develop the mapping and sound control parameters you want to support mediation with or redesign the whole system where the steps for mapping and control p are the same as for getting the neuromarkers." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1023" y="427" width="131" height="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-8" value="Use it." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1017.5" y="45" width="77" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-23" value="Consider using an OpenBCI board with the OpenBCI-SuperCollider Interface to access your neuromarkers and develop your own mapping and control parameters steps with SuperCollider IDE." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="264" width="143" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="So, you have access to an EEG amplifier and could extract the neuromaker related EEG features and classify them to be used for control.&amp;nbsp;&lt;br&gt;&lt;br&gt;Can you develop the mapping and the sound control parameters in the same software where you have classified your brain signals?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="259.75" width="143" height="224.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-26" value="So, you have a software where you can the create sounds or music and the&amp;nbsp; means to map their parameters to classified brain signals.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="259.75" width="143" height="176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
