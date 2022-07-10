@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T23:26:59.392Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="bThcyVr7h4tp5DpTaLfu" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T09:28:15.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="fG_Kia8AKJ3pRtMI5784" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1302" dy="778" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="305" dy="389" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,16 +182,10 @@
         <mxCell id="2vEwFdgHqtbfs0SoOasA-8" value="Consider my recommendations for NFT and artistic performance settings." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="53" width="154" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495.25" y="275" as="targetPoint" />
-            <mxPoint x="495.0000000000002" y="259.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2vEwFdgHqtbfs0SoOasA-25" target="2vEwFdgHqtbfs0SoOasA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="This means, you have an EEG amplifier that can record brain signals and software (on this device or on the computer) that can process the brain signals you need to access the neuromarkers. Now you need to classify these neuromarkers and develop the remaining steps of your interfacing: mapping and sound control parameters.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="This means, you have an EEG amplifier that can record brain signals and software that can process the brain signals you need to access the neuromarkers. Now you need to classify these neuromarkers and develop the remaining steps of your interfacing: mapping and sound control parameters.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="484" y="259.75" width="187" height="180.25" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2vEwFdgHqtbfs0SoOasA-26" target="2vEwFdgHqtbfs0SoOasA-46" edge="1">
