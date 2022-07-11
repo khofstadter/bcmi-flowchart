@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:50:44.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="kuJg2-L33uJsQ0HxvGfy" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:52:23.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="SimMdFC2R0KhVLlm9QoL" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="736" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="Bq3h18sL0KgaUb55MUdY-2" value="What are the missing steps?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="396" y="157" width="484" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-8" value="Use your BCMI system and archive as much data as possible while using it for later off-line analysis and for the creation of outputs, e.g. videos or audio releases." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-8" value="Use your BCMI system in your chosen setting and archive as much data as possible while using it for later off-line analysis and for the creation of outputs, e.g. videos or audio releases." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="53" width="154" height="109" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2vEwFdgHqtbfs0SoOasA-25" target="2vEwFdgHqtbfs0SoOasA-46" edge="1">
