@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:58:38.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="C-rrppDSMxSzkm3UkIyx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T10:04:12.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="XKopsO0cD495ZPUhFRgd" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1825" dy="1132" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="701" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,13 +189,13 @@
         <mxCell id="2vEwFdgHqtbfs0SoOasA-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2vEwFdgHqtbfs0SoOasA-25" target="2vEwFdgHqtbfs0SoOasA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="This probably means, you have an EEG amplifier that can record brain signals and software that can process these signals to access the neuromarkers. Now you need to classify these neuromarkers and develop the remaining steps of your interfacing: mapping and sound control parameters.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-25" value="This probably means, you &lt;br&gt;have an EEG amplifier that can record brain signals and software that can process these signals to access the neuromarkers. Now you need to classify these neuromarkers and develop the remaining steps of your interfacing: mapping and sound control parameters.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="484" y="259.75" width="187" height="180.25" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2vEwFdgHqtbfs0SoOasA-26" target="2vEwFdgHqtbfs0SoOasA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-26" value="This probably means, you have a software where you can create sound or music and control their parameters in real-time. Now you need to find a device and relevant software to record, amplify and process the EEG to access the neuromarkers. Then you can classify signals with these neuromarkers and send them to your music software." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-26" value="This probably means, you &lt;br&gt;have a software where you can create sound or music and control their parameters in real-time. Now you need to find an EEG amplifier and relevant software to record, amplify and process the EEG to access the neuromarkers. Then you can classify your neuromarkers-related signals and send them to &lt;br&gt;your music software." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="682" y="259.75" width="198" height="180.25" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-41" value="Develop your BCMI." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
