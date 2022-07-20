@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T00:22:14.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="VoqVP7SmRouv6hGTMnVg" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T00:26:55.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="XQJ77T9rxumxyIwgkG0e" version="20.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1196" dy="1004" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="853" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             <mxPoint x="11" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CMZkNZGOJQGL0w71kFO-57" value="Do you know the meditation techniques you want your BCMI system to support and what neuromarkers literature has identified related to these techniques ?&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=0;sketch=0;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
+        <mxCell id="_CMZkNZGOJQGL0w71kFO-57" value="Do you know the meditation techniques you want your BCMI system to support and the neuromarkers literature has identified related to these techniques ?&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=0;sketch=0;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="49" y="211" width="259" height="97" as="geometry" />
         </mxCell>
         <mxCell id="VttY3gMubxosSflKqxmT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;" parent="1" source="_CMZkNZGOJQGL0w71kFO-60" target="_CMZkNZGOJQGL0w71kFO-56" edge="1">
@@ -74,7 +74,7 @@
         <mxCell id="_CMZkNZGOJQGL0w71kFO-79" value="Use a customisable system allowing you to (1) record multi-channel brain signals (2) from various brain areas and (3) extract various features, e.g. with FFT, ERP and coherence methods." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="49" y="414" width="209" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Bq3h18sL0KgaUb55MUdY-1" edge="1" source="_CMZkNZGOJQGL0w71kFO-80">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_CMZkNZGOJQGL0w71kFO-80" target="Bq3h18sL0KgaUb55MUdY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="308" y="682" as="sourcePoint" />
             <Array as="points">
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CMZkNZGOJQGL0w71kFO-80" value="Find a BCMI that allows you to (1) monitor the &lt;br&gt;identified neuromarkers and (2) map them to sound control parameters." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="_CMZkNZGOJQGL0w71kFO-80" value="Find a BCMI that allows you to (1) monitor the neuromarkers and (2) map them to sound control parameters." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="49" y="673" width="259" height="64" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VttY3gMubxosSflKqxmT-2" target="_CMZkNZGOJQGL0w71kFO-80" edge="1">
@@ -116,10 +116,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIhw0ZGefeC2zogO-UNX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="2vEwFdgHqtbfs0SoOasA-8">
+        <mxCell id="iIhw0ZGefeC2zogO-UNX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Bq3h18sL0KgaUb55MUdY-1" target="2vEwFdgHqtbfs0SoOasA-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iIhw0ZGefeC2zogO-UNX-2" value="&lt;span style=&quot;color: rgb(0, 0, 204);&quot;&gt;Yes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iIhw0ZGefeC2zogO-UNX-1">
+        <mxCell id="iIhw0ZGefeC2zogO-UNX-2" value="&lt;span style=&quot;color: rgb(0, 0, 204);&quot;&gt;Yes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iIhw0ZGefeC2zogO-UNX-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3918" y="-1" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
