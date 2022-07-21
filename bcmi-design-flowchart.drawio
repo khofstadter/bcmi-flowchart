@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T00:42:34.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="g3kDjmJ3IAT4Fxby7BBP" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T21:56:50.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="6DGw0KnwkA2DDTmBf9hM" version="20.1.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1565" dy="1312" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="2056" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,13 +54,13 @@
             <mxPoint x="11" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CMZkNZGOJQGL0w71kFO-57" value="Do you know the meditation techniques you want your BCMI system to support and the neuromarkers literature has identified related &lt;br&gt;to these techniques ?&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=0;sketch=0;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
+        <mxCell id="_CMZkNZGOJQGL0w71kFO-57" value="&lt;div&gt;Do you know (1) the meditation techniques&amp;nbsp;&lt;/div&gt;&lt;div&gt;you want your BCMI system to support&lt;/div&gt;&lt;div&gt;and (2) the neuromarkers that the literature&amp;nbsp;&lt;/div&gt;&lt;div&gt;has identified as related to these techniques?&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=0;sketch=0;strokeWidth=1;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="49" y="211" width="259" height="97" as="geometry" />
         </mxCell>
         <mxCell id="VttY3gMubxosSflKqxmT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;" parent="1" source="_CMZkNZGOJQGL0w71kFO-60" target="_CMZkNZGOJQGL0w71kFO-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_CMZkNZGOJQGL0w71kFO-60" value="Do some literature review (e.g. Sections 3.2 and 3.3) and start again." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="_CMZkNZGOJQGL0w71kFO-60" value="Consider a literature review (e.g. Sections 3.2 and 3.3) and start again." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="185.5" y="53" width="122.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_CMZkNZGOJQGL0w71kFO-79" target="VttY3gMubxosSflKqxmT-2" edge="1">
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CMZkNZGOJQGL0w71kFO-79" value="Use a customisable system allowing you to (1) record multi-channel brain signals (2) from various brain areas and (3) extract various features, e.g. with FFT, ERP and coherence methods." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="_CMZkNZGOJQGL0w71kFO-79" value="Use a customisable system allowing you to (1) record multi-channel brain signals from various brain areas and (2) extract various features, e.g. with FFT, ERP and coherence methods." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="49" y="414" width="209" height="103" as="geometry" />
         </mxCell>
         <mxCell id="2vEwFdgHqtbfs0SoOasA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_CMZkNZGOJQGL0w71kFO-80" target="Bq3h18sL0KgaUb55MUdY-1" edge="1">
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-29" value="&lt;font color=&quot;#0000cc&quot;&gt;&lt;i&gt;6 and 7.&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-27" vertex="1" connectable="0">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-29" value="&lt;font color=&quot;#0000cc&quot;&gt;&lt;i&gt;6 and 7 are missing.&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-27" vertex="1" connectable="0">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
@@ -148,7 +148,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-30" value="&lt;i&gt;&lt;font color=&quot;#0000cc&quot;&gt;1 - 5.&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-28" vertex="1" connectable="0">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-30" value="&lt;i&gt;&lt;font color=&quot;#0000cc&quot;&gt;1 - 5 are missing.&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-28" vertex="1" connectable="0">
           <mxGeometry x="-0.133" y="1" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
@@ -162,7 +162,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vEwFdgHqtbfs0SoOasA-51" value="&lt;i&gt;&lt;font color=&quot;#0000cc&quot;&gt;All steps.&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-50" vertex="1" connectable="0">
+        <mxCell id="2vEwFdgHqtbfs0SoOasA-51" value="&lt;i&gt;&lt;font color=&quot;#0000cc&quot;&gt;All steps are missing.&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2vEwFdgHqtbfs0SoOasA-50" vertex="1" connectable="0">
           <mxGeometry x="0.197" y="1" relative="1" as="geometry">
             <mxPoint y="-209" as="offset" />
           </mxGeometry>
